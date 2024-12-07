@@ -79,6 +79,8 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Archlinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+![Tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
 
 🤝 Conecte-se comigo:
 
