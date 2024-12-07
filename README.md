@@ -10,15 +10,17 @@
         Gestão e manutenção da infraestrutura de TI, com foco em automação utilizando Python e Bash Scrip.
         Implementação e configuração de serviços em nuvem (AWS), incluindo monitoramento e otimização de recursos.
         Monitoramento proativo e resolução eficiente de problemas de sistemas, garantindo alta disponibilidade.
+        
     Desenvolvedor Back-End Java (2022 - 2024) iFractal Tecnologia Para Ser Humano:
         Integração do sistema iFractal com diversos relógios de ponto (Controlid, Dimep, Zkteco, Henry, etc.) via APIs e DLLs.
         Desenvolvimento de APIs para integração com outros relógios.
+        
     Analista de Suporte (2019 - 2022) iFractal Tecnologia Para Ser Humano:
         Suporte aos sistemas ifPonto (gestão de ponto eletrônico), ifClick (envio de mensagens e documentos) e ifAcesso (controle de acesso).
 
 🛠️ Habilidades:
 
-    Linguagens de Programação: Java(Spring Boot, JPA, Quarkus), Kotlin, C, Golang, Python, Shell script.
+    Linguagens de Programação: Java(Spring Boot, JPA, Quarkus), Kotlin, C, Shell script.
     Banco de Dados: Sqlite e Postgres
     DevOps: Containers, Linux, Git, Docker e kubernetes
     Outras: Foco em resultados, aprendizado contínuo e trabalho em equipe
@@ -30,11 +32,11 @@ Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de 
 🏆 Conquistas e Projetos:
 
 <!--
-🏆 Conquistas:
+🏆 Conquistas e Projetos:
 
     [Insira suas conquistas e projetos relevantes aqui]
 -->
-![Lojinha da alba](https://github.com/ariel99gf/albastore)
+Lojinha da alba: https://github.com/ariel99gf/albastore
 
 📚 Aprendendo e crescendo:
 
@@ -59,10 +61,6 @@ Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de 
 -->
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=radical)
 
-![Ariel's HackerRank Profile](https://www.hackerrank.com/profile/ariel99gf)
-
-![Ariel's LeetCode Profile](https://leetcode.com/u/ariel99gf/)
-
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65ddc1fbaec67f2e2aa8dfee?variant=dark)](https://roadmap.sh)
 
 🌟 Destaques:
@@ -85,6 +83,8 @@ Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de 
 🤝 Conecte-se comigo:
 
     LinkedIn: https://www.linkedin.com/in/ariel99gf/
+    HackerRank: https://www.hackerrank.com/profile/ariel99gf
+    LeetCode: https://leetcode.com/u/ariel99gf/
 
 💬 Me mande uma mensagem!
 
