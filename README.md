@@ -80,7 +80,7 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
 ![Archlinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+![Tmux](https://img.shields.io/static/v1?style=for-the-badge&message=tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=)
 
 🤝 Conecte-se comigo:
 
