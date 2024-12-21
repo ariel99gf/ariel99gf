@@ -12,15 +12,31 @@
         Monitoramento proativo e resolução eficiente de problemas de sistemas, garantindo alta disponibilidade.
         
     Desenvolvedor Back-End Java (2022 - 2024) iFractal Tecnologia Para Ser Humano:
-        Integração do sistema iFractal com diversos relógios de ponto (Controlid, Dimep, Zkteco, Henry, etc.) via APIs e DLLs.
-        Desenvolvimento de APIs para integração com outros relógios.
+        Desenvolvimento e manutenção de sistema de comunicação para relógios de ponto/hamsters (Henry, Dimep, ControlID, TopData e ZK). ifPonto Rep
+        Criação de interface para captura de biometria para dispositivos USB, facilitando a integração de leitores biométricos.
+        APIs REST para comunicação entre servidor e relógios de ponto.
+        Protocolos de comunicação com criptografia e autenticação.
+        Otimização do desempenho na coleta de dados.
+        Integração com APIs de baixo nível (USB) para relógios de ponto.
+        Soluções para consumo e processamento de dados, com tratamento de erros e persistência.
+        Resolução de problemas de compatibilidade e integração entre hardware e software.
+
+        Manutenção e melhorias na aplicação Android. ifPonto Rep Android
+        Correção de bugs e novas funcionalidades.
+        Otimização de desempenho e usabilidade.
         
     Analista de Suporte (2019 - 2022) iFractal Tecnologia Para Ser Humano:
-        Suporte aos sistemas ifPonto (gestão de ponto eletrônico), ifClick (envio de mensagens e documentos) e ifAcesso (controle de acesso).
+        Suporte técnico especializado em ferramentas de gestão de ponto (iFractal) e envio de documentos digitais (ifClick), incluindo instalação, configuração e resolução de problemas.
+        Expertise em diagnóstico e solução de problemas de comunicação entre relógios de ponto/hamster de diversas marcas (Henry, Dimep, ControlID, TopData e ZK) e o servidor.
+        Orientação a usuários sobre coleta de dados, gestão de funcionários, geração de relatórios e envio de documentos digitais.
+        Desenvolvimento de exportações de folhas personalizadas em PHP e PostgreSQL para extração de dados.
+        Criação de campanhas de e-mail marketing e boletos para clientes.
+        Interface com a equipe de desenvolvimento para melhoria contínua do sistema.
+        Criação de documentação e materiais de treinamento.
 
 🛠️ Habilidades:
 
-    Linguagens de Programação: Java(Spring Boot, JPA, Quarkus), Kotlin, C, Shell script.
+    Linguagens de Programação: Java(Quarkus), Kotlin, C, Shell script.
     Banco de Dados: Sqlite e Postgres
     DevOps: Containers, Linux, Git, Docker e kubernetes
     Outras: Foco em resultados, aprendizado contínuo e trabalho em equipe
