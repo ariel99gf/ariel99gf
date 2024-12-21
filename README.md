@@ -7,7 +7,7 @@
 💼 Experiência:
     
     Administrador de Sistemas (2024 - Presente) Edge.uol:
-        Gestão e manutenção da infraestrutura de TI, com foco em automação utilizando Python e Bash Scrip.
+        Gestão e manutenção da infraestrutura de TI.
         Implementação e configuração de serviços em nuvem (AWS), incluindo monitoramento e otimização de recursos.
         Monitoramento proativo e resolução eficiente de problemas de sistemas, garantindo alta disponibilidade.
         
