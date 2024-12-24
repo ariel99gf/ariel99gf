@@ -78,6 +78,7 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=radical)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65ddc1fbaec67f2e2aa8dfee?variant=dark)](https://roadmap.sh)
+![Try Hack Me](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3975366" style='border:none;'></iframe>)
 
 🌟 Destaques:
 
@@ -88,7 +89,7 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -103,6 +104,7 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
     LinkedIn: https://www.linkedin.com/in/ariel99gf/
     HackerRank: https://www.hackerrank.com/profile/ariel99gf
     LeetCode: https://leetcode.com/u/ariel99gf/
+    Try Hack Me: https://tryhackme.com/r/p/ariel99gf
 
 💬 Me mande uma mensagem!
 
