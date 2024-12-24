@@ -78,7 +78,6 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=radical)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65ddc1fbaec67f2e2aa8dfee?variant=dark)](https://roadmap.sh)
-![Try Hack Me](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3975366" style='border:none;'></iframe>)
 
 🌟 Destaques:
 
