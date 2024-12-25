@@ -104,6 +104,7 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
     HackerRank: https://www.hackerrank.com/profile/ariel99gf
     LeetCode: https://leetcode.com/u/ariel99gf/
     Try Hack Me: https://tryhackme.com/r/p/ariel99gf
+    Hack The Box: https://app.hackthebox.com/profile/2179895
 
 💬 Me mande uma mensagem!
 
