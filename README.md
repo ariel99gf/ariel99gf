@@ -4,43 +4,6 @@
 
 - 👋 Eu sou um desenvolvedor apaixonado por tecnologia e soluções digitais. 💻
 
-💼 Experiência:
-    
-    Administrador de Sistemas (2024 - Presente) Edge.uol:
-        Gestão e manutenção da infraestrutura de TI.
-        Implementação e configuração de serviços em nuvem (AWS), incluindo monitoramento e otimização de recursos.
-        Monitoramento proativo e resolução eficiente de problemas de sistemas, garantindo alta disponibilidade.
-        
-    Desenvolvedor Back-End Java (2022 - 2024) iFractal Tecnologia Para Ser Humano:
-        Desenvolvimento e manutenção de sistema de comunicação para relógios de ponto/hamsters (Henry, Dimep, ControlID, TopData e ZK). ifPonto Rep
-        Criação de interface para captura de biometria para dispositivos USB, facilitando a integração de leitores biométricos.
-        APIs REST para comunicação entre servidor e relógios de ponto.
-        Protocolos de comunicação com criptografia e autenticação.
-        Otimização do desempenho na coleta de dados.
-        Integração com APIs de baixo nível (USB) para relógios de ponto.
-        Soluções para consumo e processamento de dados, com tratamento de erros e persistência.
-        Resolução de problemas de compatibilidade e integração entre hardware e software.
-
-        Manutenção e melhorias na aplicação Android. ifPonto Rep Android
-        Correção de bugs e novas funcionalidades.
-        Otimização de desempenho e usabilidade.
-        
-    Analista de Suporte (2019 - 2022) iFractal Tecnologia Para Ser Humano:
-        Suporte técnico especializado em ferramentas de gestão de ponto (iFractal) e envio de documentos digitais (ifClick), incluindo instalação, configuração e resolução de problemas.
-        Expertise em diagnóstico e solução de problemas de comunicação entre relógios de ponto/hamster de diversas marcas (Henry, Dimep, ControlID, TopData e ZK) e o servidor.
-        Orientação a usuários sobre coleta de dados, gestão de funcionários, geração de relatórios e envio de documentos digitais.
-        Desenvolvimento de exportações de folhas personalizadas em PHP e PostgreSQL para extração de dados.
-        Criação de campanhas de e-mail marketing e boletos para clientes.
-        Interface com a equipe de desenvolvimento para melhoria contínua do sistema.
-        Criação de documentação e materiais de treinamento.
-
-🛠️ Habilidades:
-
-    Linguagens de Programação: Java(Quarkus), Kotlin, C, Shell script.
-    Banco de Dados: Sqlite e Postgres
-    DevOps: Containers, Linux, Git, Docker e kubernetes
-    Outras: Foco em resultados, aprendizado contínuo e trabalho em equipe
-
 🚀 Missão:
 
 Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de viver.
@@ -86,7 +49,11 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
 -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-00A86B?logo=ci-cd&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -109,8 +76,6 @@ Lojinha da alba: https://github.com/ariel99gf/albastore
 💬 Me mande uma mensagem!
 
 Estou sempre aberto a novas oportunidades e colaborações.
-
-#java #springboot #jpa #containers #sql #postgres #linux #git #desenvolvedor #backend #devops #tecnologia #inovação #futuro
 
 <!--
 **ariel99gf/ariel99gf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
