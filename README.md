@@ -8,14 +8,11 @@
 
 Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de viver.
 
-🏆 Conquistas e Projetos:
-
 <!--
 🏆 Conquistas e Projetos:
 
     [Insira suas conquistas e projetos relevantes aqui]
 -->
-Lojinha da alba: https://github.com/ariel99gf/albastore
 
 📚 Aprendendo e crescendo:
 
