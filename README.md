@@ -70,10 +70,6 @@ Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de 
     Try Hack Me: https://tryhackme.com/r/p/ariel99gf
     Hack The Box: https://app.hackthebox.com/profile/2179895
 
-💬 Me mande uma mensagem!
-
-Estou sempre aberto a novas oportunidades e colaborações.
-
 <!--
 **ariel99gf/ariel99gf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
